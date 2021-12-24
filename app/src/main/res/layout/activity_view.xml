@@ -85,7 +85,7 @@
                 android:layout_marginTop="15dp"
                 android:fontFamily="@font/rubik"
                 android:labelFor="@+id/isi_tgl_sewa"
-                android:text="Tanggal Sewa : "
+                android:text="Deskripsi : "
                 android:textColor="?attr/actionMenuTextColor"
                 android:textSize="25sp"
                 android:textStyle="bold" />
@@ -109,7 +109,7 @@
                 android:layout_marginTop="15dp"
                 android:fontFamily="@font/rubik"
                 android:labelFor="@+id/isi_umur"
-                android:text="Umur : "
+                android:text="Dosis : "
                 android:textColor="?attr/actionMenuTextColor"
                 android:textSize="25sp"
                 android:textStyle="bold" />
@@ -134,7 +134,7 @@
                 android:layout_marginTop="15dp"
                 android:fontFamily="@font/rubik"
                 android:labelFor="@+id/isi_gender"
-                android:text="Gender :"
+                android:text="Jenis Obat :"
                 android:textColor="?attr/actionMenuTextColor"
                 android:textSize="25sp"
                 android:textStyle="bold" />
@@ -159,7 +159,7 @@
                 android:layout_marginTop="15dp"
                 android:fontFamily="@font/rubik"
                 android:labelFor="@+id/isi_penyewaan"
-                android:text="Penyewaan Yang Dipilih : "
+                android:text="Kategori : "
                 android:textColor="?attr/actionMenuTextColor"
                 android:textSize="25sp"
                 android:textStyle="bold" />
